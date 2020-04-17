@@ -447,6 +447,7 @@
     <Content Include="styles\responsive.css" />
     <Content Include="styles\shop_responsive.css" />
     <Content Include="styles\shop_styles.css" />
+    <None Include="Views\Shared\CMScart.cshtml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
